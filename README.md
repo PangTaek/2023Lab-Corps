@@ -1,2 +1,2 @@
 # README
-2023 Konyang University Labcorps Project
+2023 Konyang University Lab-corps Project
